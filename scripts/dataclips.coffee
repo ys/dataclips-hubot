@@ -2,7 +2,7 @@
 #   Access DataClip result
 #
 # Commands:
-#   hubot add_clip clip_name url - Save a dataclip url to redis
+#   hubot add clip clip_name json_url - Save a dataclip url to redis
 #   hubot clip clip_name - Display dataclip value
 #
 # Author:
