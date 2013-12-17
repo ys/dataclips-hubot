@@ -1,17 +1,17 @@
 {
-  name: "dataclips-hubot",
-  version: "0.0.1",
-  description: "All your postgres dataclips belongs to us",
-  repository: [
+  "name": "dataclips-hubot",
+  "version": "0.0.1",
+  "description": "All your postgres dataclips belongs to us",
+  "repository": [
   {
-    type: "git",
-    url: "https://github.com/ys/dataclips-hubot.git"
+    "type": "git",
+    "url": "https://github.com/ys/dataclips-hubot.git"
   }
   ],
-    main: "./index",
-    directories: { },
-    dependencies: { },
-    engines: {
-      node: ">=0.8.0"
+    "main": "./index",
+    "directories": { },
+    "dependencies": { },
+    "engines": {
+      "node": ">=0.8.0"
     }
 }
